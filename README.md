@@ -15,6 +15,10 @@ The project demonstrates the complete deep learning workflow, including:
 
 An interactive Tkinter application allows users to draw handwritten digits and classify them using the trained CNN.
 
+## Interactive GUI
+
+![GUI](outputs/sample_prediction_output.png)
+
 ---
 
 ## Features
