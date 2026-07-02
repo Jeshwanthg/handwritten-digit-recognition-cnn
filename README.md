@@ -18,7 +18,7 @@ An interactive Tkinter application allows users to draw handwritten digits and c
 ## Interactive GUI
 
 <p align="center">
-    <img src="outputs/sample_prediction_output.png" width="700">
+    <img src="mnist-digit-classifier-pytorch/outputs/sample_prediction_output.png" width="700">
 </p>
 
 ---
