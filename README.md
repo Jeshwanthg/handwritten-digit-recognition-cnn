@@ -17,7 +17,9 @@ An interactive Tkinter application allows users to draw handwritten digits and c
 
 ## Interactive GUI
 
-![GUI](outputs/sample_prediction_output.png)
+<p align="center">
+    <img src="outputs/sample_prediction_output.png" width="700">
+</p>
 
 ---
 
